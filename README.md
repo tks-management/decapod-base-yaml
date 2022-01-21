@@ -1,3 +1,5 @@
+# This repository is deprecated! Use https://github.com/openinfradev/decapod-base-yaml instead.
+
 # decapod-base-yaml
 This project provides an easy way to create/maintain complex YAML files using kustomize and kustomize plugin.  
 It works with [decapod-site](https://github.com/openinfradev/decapod-site) which contain differences between each environment (_e.g. development, staging and production environment_).  
